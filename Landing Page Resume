@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <title>title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+  </head>  
+  <body>
+    <div class="profile-img">
+      <a href="#"><img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/15420964_1888929264673900_8440446784112573624_n.jpg?_nc_cat=108&_nc_oc=AQm9boNNrGNJ4sXeaiiM5LEa9R1YSoBdMDWudd0zIw9licuBMn8mdXWaEdgoFC7-nDE&_nc_ht=scontent.fbkk5-7.fna&oh=b872e2bddc2977f940a7a2ae638a3f1c&oe=5E63E716" alt="A cute orange cat lying on its back." style="width:100%;height:auto;" ></a>
+</div>
+    
+    <div class="profile-info">
+      <h1>Apirat Kheokhamsaeng</h1>
+      <p class="about" >Nickname is Tiw</p>
+      <p class="about" >Bachelors of Law</p>
+      <h2>Experise </h2>
+      <div class="expertise">
+        <p><b>Network Trouble shooting adn setup</b></p>
+        <small>
+          Identify Network issue adn srtup network system
+        </small>
+      </div>
+      <div class="expertise">
+        <p><b>Basic IT support skill </b></p>
+        <small>
+          Identify and fix issue for computer and laptop 
+        </small>
+      </div>
+      <div class="expertise">
+        <p><b>Hardware troubleshooting </b></p>
+        <small>
+          Identify and fix issue hardware in office 
+        </small>
+      </div>
+    <div class="form-box">
+    <h2>Contact Me</h2?
+      <form>
+        <div class="input-group">
+        <input type="text" placeholder="First Name"
+        <input type="text" placeholder="Last Name">
+        </div>
+      </form>
+      
+    </div>
+    </div>
